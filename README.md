@@ -1,1 +1,1 @@
-# migration-news-api-to-ts
+# news-JS
